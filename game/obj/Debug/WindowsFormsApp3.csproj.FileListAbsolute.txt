@@ -1,0 +1,21 @@
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\C#\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\C#\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\C#\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\C#\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\C#\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\C#\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\C#\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\C#\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\C#\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\C#\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
